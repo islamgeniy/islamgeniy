@@ -14,15 +14,5 @@ Entry-level ML practitioner with a software background. Focused on Python, data 
 Problem-solving · Communication · Ownership · Adaptability
 
 ---
-
-### Links
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Telegram: https://t.me/yourusername  
-- Instagram: https://instagram.com/yourusername  
-- TikTok: https://tiktok.com/@yourusername  
-- X (Twitter): https://x.com/yourusername  
-
----
-
-**Location:** Uzbekistan  
+ 
 **Interests:** Production ML, systems programming, performance
