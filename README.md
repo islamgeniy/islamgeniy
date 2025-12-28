@@ -1,50 +1,28 @@
-<div align="center">
+## Islam
+**Future Machine Learning Engineer**
 
-## Future ML Engineer
-
-</div>
-
----
-
-### 🌐 Connect
-<div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://t.me/yourusername">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://tiktok.com/@yourusername">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://x.com/yourusername">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
-  </a>
-</div>
+Entry-level ML practitioner with a software background. Focused on Python, data analysis, and ML fundamentals, with an interest in production systems and performance-aware model deployment.
 
 ---
 
-### 🧠 Languages
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-</div>
+### Technical Skills
+- **Programming:** Python, Rust (beginner)
+- **Data & ML:** Data Analysis, ML Fundamentals
+- **Backend & Tools:** REST APIs, Git, CLI, Docker (basics)
 
----
-
-### 🛠 Skills
-
-**Hard:**  
-Python · Data Analysis · ML Fundamentals · REST APIs · Git & CLI · Docker Basics
-
-**Soft:**  
+### Soft Skills
 Problem-solving · Communication · Ownership · Adaptability
 
 ---
 
-<div align="center">
-  <sub>Uzbekistan · Interested in production ML, systems, and performance</sub>
-</div>
+### Links
+- LinkedIn: https://linkedin.com/in/yourprofile  
+- Telegram: https://t.me/yourusername  
+- Instagram: https://instagram.com/yourusername  
+- TikTok: https://tiktok.com/@yourusername  
+- X (Twitter): https://x.com/yourusername  
+
+---
+
+**Location:** Uzbekistan  
+**Interests:** Production ML, systems programming, performance
