@@ -2,12 +2,11 @@
 
 Computer Science student at Inha University in Tashkent (IUT), Uzbekistan.  
 Interested in AI, Computer Vision, Robotics, and Embedded Systems.  
-Targeting Master's (Fall 2028) in CSE / EECS / AI / Robotics, with a long-term goal of pursuing a Ph.D.
+Targeting Master's (Fall 2028) in EECS / AI / Robotics, with a long-term goal of pursuing a Ph.D.
 
 ## Current Focus
 - Deep Learning for Computer Vision
 - Embedded Software & Design
-- Mobile Programming
 - System Programming and Computer Architecture
 
 ## Academic Background
@@ -19,13 +18,12 @@ Targeting Master's (Fall 2028) in CSE / EECS / AI / Robotics, with a long-term g
 ## Tools & Skills
 - Languages: Python, C++ (basic), SQL (basic)
 - Tools: Git, VS Code, Figma, Jira, Autodesk
-- Areas: AI, CV, mobile development, embedded systems
+- Areas: AI, CV, embedded systems
 
 ## Goals
 I am currently building a stronger portfolio for graduate study and research in:
 - Artificial Intelligence
 - Computer Vision
-- Robotics
 - EECS / CSE
 
 ## Contact
